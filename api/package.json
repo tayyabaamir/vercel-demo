@@ -1,0 +1,7 @@
+{
+  "name": "vercel-demo",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node api/hello.js"
+  }
+}
